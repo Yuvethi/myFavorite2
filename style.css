@@ -1,0 +1,12 @@
+#about {
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.menu{
+    list-style: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: rgb(127, 129, 255);
+}
